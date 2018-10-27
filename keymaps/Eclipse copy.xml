@@ -1,0 +1,77 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="AddToFavoritesPopup" />
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="CallHierarchy.BaseOnThisType" />
+  <action id="ChangeSignature" />
+  <action id="ChangesView.ShelveSilently" />
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="Console.Jpa.GenerateSql" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorScrollToCenter" />
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+  <action id="QuickActionPopup" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="Unwrap" />
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="VcsHistory.ShowAllAffected" />
+  <action id="context.save" />
+</keymap>

@@ -1,0 +1,13 @@
+<templateSet group="Logger">
+  <template name="loggerDefineStatic" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS$.class);" description="Definied LOGGER by class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="loggerDefineThis" value="private Logger logger = LoggerFactory.getLogger(this.getClass());" description="Definied LOGGER by this" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
