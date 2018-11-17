@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="defaultProjectDirectory" value="W:\workspace" />
+    <option name="defaultProjectDirectory" value="W:\workspace_idea" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
