@@ -7,25 +7,43 @@
   </template>
   <template name="cons" value="console.log($content$)" description="console.log" toReformat="false" toShortenFQNames="true">
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
   </template>
   <template name="did" value="document.getElementById('$id$')" description="document get element by id" toReformat="false" toShortenFQNames="true">
     <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
   </template>
   <template name="fun" value="function $fun$($PARAM$) {&#10;  $END$&#10;}" description="definied a function" toReformat="false" toShortenFQNames="true">
     <variable name="fun" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
   </template>
   <template name="funn" value="function ($PARAM$) {&#10;  $END$&#10;}" description="anonymity function" toReformat="false" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
   </template>
   <template name="if" value="if($condition$){&#10;  $statement$&#10;}" description="if" toReformat="false" toShortenFQNames="true">
     <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="statement" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
   </template>
   <template name="ifel" value="if($condition$){&#10;  $statement$&#10;} else {&#10;  $statement2$&#10;}" description="if ... else ..." toReformat="false" toShortenFQNames="true">
     <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="statement" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="statement2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
   </template>
   <template name="ifelif" value="if($condition$){&#10;  $statement$&#10;} else if($condition2$){&#10;  $statement2$&#10;} else{&#10;  $statement3$&#10;}" description="if ... else if ... else" toReformat="false" toShortenFQNames="true">
     <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
@@ -33,5 +51,8 @@
     <variable name="condition2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="statement2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="statement3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
   </template>
 </templateSet>
