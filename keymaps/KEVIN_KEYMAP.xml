@@ -1,4 +1,4 @@
-<keymap version="1" name="shkstart" parent="Eclipse">
+<keymap version="1" name="KEVIN_KEYMAP" parent="Eclipse">
   <action id="AddToFavorites">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
