@@ -23,6 +23,42 @@
           <option name="key" value="gf" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="uicomponent" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="jsfconverter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="navrule" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="refbean" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="renderkit" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="jsfvalidator" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="propertybean" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="mapentriesbean" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="listentriesbean" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="spring" />
           <option name="key" value="sb" />
         </TemplateKey>
