@@ -1,8 +1,0 @@
-<templateSet group="HTML/XML">
-  <template name="src1" value="&lt;script type=&quot;text/javascript&quot;&gt;&#10;  $statement$&#10;&lt;/script&gt;" description="inner javascript" toReformat="false" toShortenFQNames="true">
-    <variable name="statement" expression="" defaultValue="" alwaysStopAt="true" />
-  </template>
-  <template name="src2" value="&lt;script type=&quot;text/javascript&quot; src=&quot;$src$&quot;&gt;&lt;/script&gt;" description="outer javascript" toReformat="false" toShortenFQNames="true">
-    <variable name="src" expression="" defaultValue="" alwaysStopAt="true" />
-  </template>
-</templateSet>
