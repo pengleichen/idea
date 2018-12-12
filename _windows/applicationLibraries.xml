@@ -3,12 +3,16 @@
     <library name="lib">
       <CLASSES>
         <root url="file://D:/dev/Glassfish/lib" />
+        <root url="file://D:/dev/Glassfish/glassfish3.1.2.2/glassfish/modules" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
         <root url="file://D:/dev/Glassfish/lib" />
+        <root url="file://D:/dev/Glassfish/glassfish3.1.2.2/glassfish/modules" />
       </SOURCES>
+      <jarDirectory url="file://D:/dev/Glassfish/glassfish3.1.2.2/glassfish/modules" recursive="false" />
       <jarDirectory url="file://D:/dev/Glassfish/lib" recursive="false" />
+      <jarDirectory url="file://D:/dev/Glassfish/glassfish3.1.2.2/glassfish/modules" recursive="false" type="SOURCES" />
       <jarDirectory url="file://D:/dev/Glassfish/lib" recursive="false" type="SOURCES" />
     </library>
   </component>
