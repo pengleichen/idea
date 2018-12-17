@@ -1,0 +1,14 @@
+<templateSet group="HTML/XML">
+  <template name="scr1" value="&lt;script type=&quot;text/javascript&quot;&gt;&#10;$index$&#10;&lt;/script&gt;" description="inner script" toReformat="false" toShortenFQNames="true">
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="scr2" value="&lt;script src=&quot;$index$&quot;&gt;&lt;/script&gt;" description="outer script" toReformat="false" toShortenFQNames="true">
+    <variable name="index" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
