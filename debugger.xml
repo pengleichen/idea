@@ -1,6 +1,7 @@
 <application>
   <component name="DebuggerSettings">
     <option name="DEBUGGER_TRANSPORT" value="1" />
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
