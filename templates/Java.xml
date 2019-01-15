@@ -1,0 +1,13 @@
+<templateSet group="Java">
+  <template name="main" value="public static void main(String[] args){&#10;  $END$&#10;}" description="main method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pris" value="private String $VAR$;" description="private field String" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
