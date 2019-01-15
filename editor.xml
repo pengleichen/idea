@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="EditorSettings">
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  </component>
 </application>
