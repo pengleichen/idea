@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Revert...">
         <Item>
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
