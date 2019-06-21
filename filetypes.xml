@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.checkstyle;*.classpath;*.git;*.hprof;*.idea;*.iml;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*bower_components*;*node_modules*;*~;.DS_Store;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
-    <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-    </extensionMap>
-  </component>
-</application>
