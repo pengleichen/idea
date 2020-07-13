@@ -1,5 +1,5 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.classpath;*.externalToolBuilders;*.hprof;*.iml;*.mvn;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;target/**/*;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.classpath;*.externalToolBuilders;*.hprof;*.iml;*.mvn;*.project;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;target;target/**/*;vssver.scc;vssver2.scc;" />
   </component>
 </application>
